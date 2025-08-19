@@ -1,0 +1,12 @@
+{
+  "name" : "Quick Build for Player Only",
+  "id" : "quick-build-for-player-only",
+  "version" : "1.0",
+  "supported_game_version" : "",
+  "short_description" : "adds a construction efficiency bonus modifier",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
