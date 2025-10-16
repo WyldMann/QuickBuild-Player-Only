@@ -1,7 +1,7 @@
-# Quick Build for Player Only
+# Quick Build
  A Victoria 3 mod
 
-Adds a player-only decision that gives an buffed construction modifier.
+Adds a player-only decision that gives an instant construction modifier.
 
 ## Installation
 Unzip file contents in the Victoria 3 Mod Directory in %USERPROFILE%\Documents\Paradox Interactive\Victoria 3\mod\
